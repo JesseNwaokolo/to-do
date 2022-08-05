@@ -59,3 +59,9 @@ button{
     border: 1px solid;
     box-shadow: 2px 2px 0 0 grey;
 }
+
+@media (max-width:768px){
+    .list{
+        width:70%;
+    }
+}
