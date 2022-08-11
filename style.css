@@ -42,3 +42,10 @@ input{
     flex-direction: column;
     align-self: flex-start;
 }
+
+@media (max-width:768px){
+    .container{
+        width:100vw;
+        max-height:50vh;
+    }
+}
